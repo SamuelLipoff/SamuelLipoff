@@ -1,4 +1,4 @@
-Xin chào các bạn!
+#Xin chào các bạn!
 
 Mình là Nguyễn Văn Đức (Samuel Lipoff)
 
